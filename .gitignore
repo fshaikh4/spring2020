@@ -3,3 +3,7 @@
 
 # ignore ipynb checkpoints dir (stores notebook version history)
 .ipynb_checkpoints
+
+# ignore compressed data files
+.tar
+*.gz
