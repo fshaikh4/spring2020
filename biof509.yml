@@ -1,0 +1,13 @@
+name: biof509
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - scikit-learn
+  - pandas
+  - requests
+  - ftputil
+  - seaborn
+prefix: /Users/shaikhf2/anaconda3/envs/biof509
+
