@@ -2,7 +2,7 @@
 .DS_Store
 
 # ignore ipynb checkpoints dir (stores notebook version history)
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
 # ignore compressed data files
 .tar
