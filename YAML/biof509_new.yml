@@ -1,0 +1,20 @@
+name: biof509
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ftputil
+  - pandas
+  - seaborn
+  - jupyterlab
+  - requests
+  - scikit-learn
+  - scikit-image
+  - matplotlib
+  - python=3.6
+  - tensorflow
+  - bayesian-optimization
+  - nipype
+  - prompt_toolkit
+prefix: /home/faysal/miniconda3/envs/biof509
+
